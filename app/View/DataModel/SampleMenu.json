@@ -1,0 +1,77 @@
+{
+	"MenuItems" : 
+	[
+		{
+			"MenuItem": 
+			{
+				"Id": "1",
+				"RecipeId": "3",
+				"CurrentStepIndex": "0",
+				"Portion": "4"
+			},
+			"Recipe":
+			{
+				"Name": "Rizses lecsó",
+				"Description": "A lecsó az egyik kedvenc magyar ételem. Ahány ház, annyiféle elkészítési módja létezik, ami közös bennük: mindegyikben van paprika, paradicsom és hagyma. Innentől kezdve mindenki esküszik valamire: ki szalonnazsírra, ki olajra, ki rizsre, ki pirospaprikára, ki tojásra, ki kolbászra, ki fokhagymára. Az én verzióm meglehetősen puritánnak tűnik ezekhez képest, de ez a mi családunk verziója, én így készítem.",
+				"Image": "lecso.jpg",
+				"UnitPrice": 280,
+				"PreparationTime": 45,
+				"Difficulty": 2,
+				"CategoryIds": [ 2 ],
+				"Ingredients": [
+					{ "Id": 111, "Quantity": 15, "Unit": "dkg" },
+					{ "Id": 112, "Quantity": 2, "Unit": "nagy fej" },
+					{ "Id": 100, "Quantity": 8, "Unit": "db" },
+					{ "Id": 101, "Quantity": 4, "Unit": "db" },
+					{ "Id": 103, "Quantity": 4, "Unit": "ek" },
+					{ "Id": 113, "Quantity": 1, "Unit": "kávéskanál" },
+					{ "Id": 110, "Quantity": 10, "Unit": "dkg" }
+				],
+				"Steps": [
+					"A kolbászt hideg vízzel leöblítjük, lehúzzuk a héját (így könnyebben lejön), és vékony karikára vágjuk.",
+					"A hagymát megtisztítjuk, apróra vágjuk.",
+					"A zöldpaprikát megmossuk, kicsumázzuk, karikára vágjuk.",
+					"A paradicsomot forró vízbe mártjuk, hideg vízzel leöblítjük és lehúzzuk a héját, majd a húsát cikkekre vágjuk.",
+					"Az olajat nagy serpenyőben felforrósítjuk, beletesszük a hagymát, üvegesre fonnyasztjuk",
+					"Hozzáadjuk a kolbászt, és 1-2 percig együtt pirítjuk.",
+					"Beletesszük a zöldpaprikát, a paradicsomot, megszórjuk sóval, borssal, a fűszerpaprikával.",
+					"A rizzsel, összekeverjük, és annyi vizet öntünk rá, hogy éppen ellepje.",
+					"Lefedve kb. 20 percig főzzük, amíg a rizs megpuhul, ám a lecsó egy kicsit leveses marad."
+				]
+			}
+		},
+		{
+			"MenuItem": 
+			{
+				"Id": "2",
+				"RecipeId": "4",
+				"CurrentStepIndex": "0",
+				"Portion": "2"
+			},
+			"Recipe":
+			{
+                "Name": "Grillezett hal",
+                "Description": "Ti szoktatok halat grillezni? Én is grillezném, ha nem potyogna a rács között a parázsba! Szegény olyan törékeny, mint a nádszál, egyem a husiját, illetve csak enném.:o)  Erre találtam egy jó ötletet, citrom szeleteken sütni, és az még illik is hozzá, szuper! Úgyis nyakon spriccelném sütés után, de így már az is le van tudva. Az öntet nagyon sok lett, de kevesebbet nem lehet normálisan leturmixolni, viszont arra is kifundáltam valamit. A következő recept arról szól.",
+                "Image": "grillezett-hal.jpg",
+                "UnitPrice": 590,
+                "PreparationTime": 65,
+                "Difficulty": 4,
+                "CategoryIds": [ 4 ],
+                "Ingredients": [
+                    { "Id": 109, "Quantity": 4, "Unit": "vastag" },
+                    { "Id": 102, "Quantity": 2, "Unit": "gerezd" },
+                    { "Id": 103, "Quantity": 4, "Unit": "ek" },
+                    { "Id": 104, "Quantity": 0, "Unit": "" },
+                    { "Id": 105, "Quantity": 0, "Unit": "" },
+                    { "Id": 106, "Quantity": 200, "Unit": "ml" },
+                    { "Id": 107, "Quantity": 1, "Unit": "csokor" }
+                ],
+                "Steps": [
+                    "Az olajat a citromlével, zúzott fokhagymával, petrezselyemmel összekeverjük, sózzuk, borsozzuk.",
+                    "A halszeletek mindkét oldalát megkenjük, egy-két óráig állni hagyjuk.",
+                    "Olajozott rácsra fektetjük, tíz-tizenöt percig grillezzük, egyszer megfordítjuk."
+                    ]
+            }
+		}
+	]
+}

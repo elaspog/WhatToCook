@@ -1,0 +1,226 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1546" measuredH="793" mockupW="1546" mockupH="793">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1366" h="768" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="112" y="37" w="-1" h="-1" measuredW="248" measuredH="48" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>6710886</color>
+        <size>40</size>
+        <text>Toj%E1sr%E1ntotta</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="0" y="678" w="1366" h="90" measuredW="1366" measuredH="90" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>App%20Bar</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1366" h="90" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="28" y="13" w="48" h="-1" measuredW="48" measuredH="60" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <href>menu-page%26bm%3Bmenu-page.bmml%26bm%3Bmenu-page.bmml%26bm%3Bmenu-page.bmml</href>
+            <icon>ListIcon%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2228%2C691%2C76%2C751%22%20href%3D%22menu-page.bmml%22%20alt%3D%22menu-page%22%20id%3D%221%22/%3E</map>
+            <size>10</size>
+            <text>Men%FC</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="108" y="13" w="48" h="-1" measuredW="51" measuredH="60" zOrder="2" locked="false" isInGroup="3">
+          <controlProperties>
+            <icon>HeartIcon%7Clarge</icon>
+            <size>10</size>
+            <text>Kedvencek</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="196" y="15" w="48" h="-1" measuredW="53" measuredH="60" zOrder="3" locked="false" isInGroup="3">
+          <controlProperties>
+            <icon>ShareIcon%7Clarge</icon>
+            <size>10</size>
+            <text>Megosztom</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="1294" y="15" w="48" h="-1" measuredW="48" measuredH="60" zOrder="4" locked="false" isInGroup="3">
+          <controlProperties>
+            <icon>ThumbsUpIcon%7Clarge</icon>
+            <size>10</size>
+            <text>Kedvenc%21</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::StickyNote" x="267" y="683" w="282" h="110" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Itt%20lenne%20a%20megoszt%E1s%2C%20de%20%FAgy%20besz%E9lt%FCk%2C%20hogy%20ezt%20nem%20csin%E1ljuk%20meg%2C%20mert%20el%20lehet%20k%E9pzelni%2C%20hogy%20m%u0171k%F6dne%2C%20de%20nem%20ad%20hozz%E1%20az%20apphoz%20annyit%20egy%20demo%20eset%E9n.</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="1152" y="49" w="183" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="1160" y="52" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Keres%E9s...</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="50" y="38" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>category-page%26bm%3Bcategory-page.bmml%26bm%3Bcategory-page.bmml%26bm%3Bcategory-page.bmml</href>
+        <icon>LeftArrowIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2250%2C38%2C98%2C86%22%20href%3D%22category-page.bmml%22%20alt%3D%22category-page%22%20id%3D%2211%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="32" y="109" w="409" h="269" measuredW="300" measuredH="197" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./images/smoked-salmon-omelette-300x197.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="__group__" x="32" y="393" w="167" h="100" measuredW="167" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="34" y="35" w="-1" h="-1" measuredW="133" measuredH="26" zOrder="0" locked="false" isInGroup="14">
+          <controlProperties>
+            <color>6710886</color>
+            <size>18</size>
+            <text>kb.%20240%20Ft/adag</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="0" w="156" h="100" measuredW="156" measuredH="100" zOrder="1" locked="false" isInGroup="14">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="34" y="3" w="-1" h="-1" measuredW="64" measuredH="26" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>6710886</color>
+                <size>18</size>
+                <text>20%20perc</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="3" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>6710886</color>
+                <icon>ClockIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="3" y="36" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>6710886</color>
+                <icon>DollarIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="75" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>6710886</color>
+                <icon>CellBarsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="34" y="74" w="-1" h="-1" measuredW="122" measuredH="26" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>6710886</color>
+                <size>18</size>
+                <text>nagyon%20k%F6nny%u0171</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SubTitle" x="482" y="109" w="-1" h="-1" measuredW="292" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Hozz%E1val%F3k%201%20adag%20eset%E9n</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::SubTitle" x="879" y="109" w="-1" h="-1" measuredW="227" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Elk%E9sz%EDt%E9se%20l%E9p%E9sek</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="32" y="522" w="396" h="68" measuredW="149" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <href>menu-page%26bm%3Bmenu-page.bmml%26bm%3Bmenu-page.bmml%26bm%3Bmenu-page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C522%2C428%2C590%22%20href%3D%22menu-page.bmml%22%20alt%3D%22menu-page%22%20id%3D%2218%22/%3E</map>
+        <size>24</size>
+        <text>Elk%E9sz%EDtem%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::List" x="482" y="145" w="-1" h="-1" measuredW="100" measuredH="126" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rowHeight>39</rowHeight>
+        <size>16</size>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::List" x="879" y="145" w="-1" h="-1" measuredW="100" measuredH="126" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rowHeight>39</rowHeight>
+        <size>16</size>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::SubTitle" x="1166" y="109" w="-1" h="-1" measuredW="164" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Hasonl%F3%20%E9telek</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::StickyNote" x="1166" y="145" w="380" h="147" measuredW="109" measuredH="123" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ide%20el%20tudok%20k%E9pzelni%20egy%20ilyen%20list%E1t%2C%20ha%20lesz%20kedv%FCnk%2C%20akkor%20megcsin%E1lhatjuk.%0A%20%0AValahogy%20majd%20vizu%E1lisan%20szepar%E1lni%20kell%20%28v%E1rhat%F3an%20h%E1tt%E9rsz%EDn%29%2C%20hogy%20%E9rezhet%u0151%20legyen%2C%20hogy%0Aez%20m%E1r%20nem%20a%20recepthez%20tartozik.</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::StickyNote" x="17" y="564" w="235" h="107" measuredW="109" measuredH="123" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Az%20elk%E9sz%EDtem%20gombra%20kattintva%20a%20recept%20hozz%E1ad%F3dik%20a%20men%FCh%F6z%2C%20ahol%20azok%20a%20receptek%20l%E1that%F3ak%2C%20amiket%20%E9ppen%20el%20akarsz%20k%E9sz%EDteni.</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="__group__" x="298" y="389" w="140" h="24" measuredW="140" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="24">
+          <controlProperties>
+            <color>15843890</color>
+            <icon>StarIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="24">
+          <controlProperties>
+            <color>15843890</color>
+            <icon>StarIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="58" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="24">
+          <controlProperties>
+            <color>15843890</color>
+            <icon>StarIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="87" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="24">
+          <controlProperties>
+            <color>15843890</color>
+            <icon>StarIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="116" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="24">
+          <controlProperties>
+            <color>15843890</color>
+            <icon>StarIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::StickyNote" x="282" y="403" w="252" h="60" measuredW="109" measuredH="123" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Itt%20lehet%20%E9rt%E9kelni.</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::StickyNote" x="1201" y="641" w="252" h="60" measuredW="109" measuredH="123" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Itt%20tudom%20hozz%E1adni%20a%20kedvencekhez.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

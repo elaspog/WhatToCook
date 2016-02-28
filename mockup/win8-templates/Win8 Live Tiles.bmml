@@ -1,0 +1,622 @@
+<mockup version="1.0" skin="sketch" measuredW="1326" measuredH="819" mockupW="1285" mockupH="811">
+  <controls>
+    <control controlID="2" controlTypeID="__group__" x="41" y="338" w="150" h="150" measuredW="150" measuredH="150" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Live%20Tile%201x1%20date%20description</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="150" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="2">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="96" y="111" w="35" h="35" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="26" y="15" w="-1" h="-1" measuredW="50" measuredH="85" zOrder="2" locked="false" isInGroup="2">
+          <controlProperties>
+            <size>72</size>
+            <text>3</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="26" y="85" w="-1" h="-1" measuredW="86" measuredH="22" zOrder="3" locked="false" isInGroup="2">
+          <controlProperties>
+            <size>14</size>
+            <text>Lorem%20Ipsum</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="200" y="338" w="150" h="150" measuredW="150" measuredH="150" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Live%20Tile%201x1%20Text%20Only</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="150" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="22" y="22" w="-1" h="-1" measuredW="69" measuredH="22" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <size>14</size>
+            <text>Some%20text</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="13" controlTypeID="__group__" x="201" y="497" w="150" h="150" measuredW="150" measuredH="150" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Live%20Tile%201x1%20Legacy</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="150" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="13">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="22" y="22" w="97" h="85" measuredW="248" measuredH="28" zOrder="1" locked="false" isInGroup="13">
+          <controlProperties>
+            <size>20</size>
+            <text>Legacy%20Desktop%20Application</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="22" controlTypeID="__group__" x="366" y="338" w="311" h="150" measuredW="311" measuredH="150" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>2x1%20headline%20text%202%20column</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="22">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="257" y="112" w="36" h="36" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="22">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="18" w="-1" h="-1" measuredW="53" measuredH="33" zOrder="2" locked="false" isInGroup="22">
+          <controlProperties>
+            <size>24</size>
+            <text>Title</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="78" y="51" w="233" h="61" measuredW="1401" measuredH="21" zOrder="3" locked="false" isInGroup="22">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="19" y="51" w="53" h="61" measuredW="1401" measuredH="21" zOrder="4" locked="false" isInGroup="22">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="23" controlTypeID="__group__" x="366" y="171" w="310" h="150" measuredW="310" measuredH="150" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>2x1%20%20text%20only</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="23">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="257" y="112" w="36" h="36" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="23">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="25" w="278" h="103" measuredW="1401" measuredH="21" zOrder="2" locked="false" isInGroup="23">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="25" controlTypeID="__group__" x="366" y="497" w="310" h="150" measuredW="310" measuredH="150" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>2x1%20headline%20text%202%20column%20narrow</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="25">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="257" y="112" w="36" h="36" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="25">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="18" w="-1" h="-1" measuredW="53" measuredH="33" zOrder="2" locked="false" isInGroup="25">
+          <controlProperties>
+            <size>24</size>
+            <text>Title</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="50" y="51" w="250" h="61" measuredW="1401" measuredH="21" zOrder="3" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="16" y="51" w="31" h="61" measuredW="1401" measuredH="21" zOrder="4" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="26" controlTypeID="__group__" x="691" y="497" w="310" h="150" measuredW="310" measuredH="150" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>2x1%20text%202%20column%20narrow</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="26">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="257" y="112" w="36" h="36" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="26">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="50" y="18" w="250" h="101" measuredW="1401" measuredH="21" zOrder="2" locked="false" isInGroup="26">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="16" y="18" w="31" h="101" measuredW="1401" measuredH="21" zOrder="3" locked="false" isInGroup="26">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="27" controlTypeID="__group__" x="691" y="338" w="310" h="150" measuredW="310" measuredH="150" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>2x1%20text%202%20column%20wide</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="27">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="257" y="112" w="36" h="36" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="27">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="87" y="26" w="213" h="102" measuredW="1401" measuredH="21" zOrder="2" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="19" y="27" w="68" h="103" measuredW="1399" measuredH="21" zOrder="3" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisieuismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="32" controlTypeID="__group__" x="691" y="171" w="310" h="150" measuredW="310" measuredH="150" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>2x1%20Tile%20Thumb%20List%20Date</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="32">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="20" y="24" w="189" h="103" measuredW="1401" measuredH="21" zOrder="1" locked="false" isInGroup="32">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="209" y="16" w="-1" h="-1" measuredW="50" measuredH="85" zOrder="2" locked="false" isInGroup="32">
+          <controlProperties>
+            <size>72</size>
+            <text>3</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="214" y="90" w="-1" h="-1" measuredW="52" measuredH="24" zOrder="3" locked="false" isInGroup="32">
+          <controlProperties>
+            <size>16</size>
+            <text>Luned%EC</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="259" y="112" w="36" h="36" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="32">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="53" controlTypeID="__group__" x="366" y="8" w="310" h="150" measuredW="310" measuredH="150" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>2x1%20title%20text</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="53">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="257" y="112" w="36" h="36" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="53">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="118" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="2" locked="false" isInGroup="53">
+          <controlProperties>
+            <text>Application</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="15" y="16" w="-1" h="-1" measuredW="53" measuredH="33" zOrder="3" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>24</size>
+            <text>Title</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="15" y="49" w="278" h="69" measuredW="1401" measuredH="21" zOrder="4" locked="false" isInGroup="53">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="55" controlTypeID="__group__" x="691" y="8" w="310" h="150" measuredW="310" measuredH="150" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="55">
+          <controlProperties>
+            <color>16777215</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="5" y="4" w="299" h="140" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="55">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="257" y="110" w="36" h="36" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="55">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="18" y="118" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="3" locked="false" isInGroup="55">
+          <controlProperties>
+            <text>Application</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="56" controlTypeID="__group__" x="1016" y="8" w="310" h="150" measuredW="310" measuredH="150" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>2x1%20Tile%20image%20text</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="56">
+          <controlProperties>
+            <color>16777215</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="257" y="110" w="36" h="36" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="56">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="18" y="122" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="2" locked="false" isInGroup="56">
+          <controlProperties>
+            <text>Application</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="6" y="6" w="298" h="89" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="56">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="72" controlTypeID="__group__" x="41" y="8" w="310" h="150" measuredW="310" measuredH="150" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="72">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="5" y="5" w="155" h="138" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="72">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="165" y="6" w="66" h="67" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="72">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="165" y="73" w="66" h="67" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="72">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="237" y="6" w="66" h="67" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="72">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="235" y="75" w="66" h="67" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="72">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="252" y="111" w="35" h="35" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="72">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="12" y="120" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="7" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>Application</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="135" y="197" w="189" h="103" measuredW="1401" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::RoundButton" x="41" y="171" w="310" h="150" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::RoundButton" x="293" y="282" w="35" h="35" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Image" x="59" y="188" w="68" h="70" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="__group__" x="1016" y="173" w="310" h="150" measuredW="310" measuredH="150" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>2x1%20tile%20thumb%20headline%20text</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="84">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="252" y="111" w="35" h="35" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="84">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="94" y="58" w="189" h="71" measuredW="1401" measuredH="21" zOrder="2" locked="false" isInGroup="84">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="18" y="17" w="68" h="70" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="84">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="94" y="24" w="-1" h="-1" measuredW="53" measuredH="33" zOrder="4" locked="false" isInGroup="84">
+          <controlProperties>
+            <size>24</size>
+            <text>Title</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="85" controlTypeID="__group__" x="1016" y="338" w="310" h="150" measuredW="310" measuredH="150" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>2x1%20tile%20thumb%20headline</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="85">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="252" y="111" w="35" h="35" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="85">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="18" y="17" w="68" h="70" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="85">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="94" y="24" w="-1" h="-1" measuredW="53" measuredH="33" zOrder="3" locked="false" isInGroup="85">
+          <controlProperties>
+            <size>24</size>
+            <text>Title</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="711" y="294" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Application</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="381" y="294" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Application</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="385" y="457" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Application</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="__group__" x="41" y="497" w="150" h="150" measuredW="150" measuredH="150" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>1x1%20photo%20appname</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="150" h="150" measuredW="150" measuredH="150" zOrder="0" locked="false" isInGroup="93">
+          <controlProperties>
+            <controlName>Live%20Tile%201x1%20Text%20Only</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="150" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <shape>rectangle</shape>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="2" y="2" w="145" h="145" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="93">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="12" y="120" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="2" locked="false" isInGroup="93">
+          <controlProperties>
+            <text>Application</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="98" y="113" w="35" h="35" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="93">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="1034" y="294" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Application</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="1034" y="457" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Application</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="__group__" x="41" y="669" w="150" h="150" measuredW="150" measuredH="150" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>1x1%20photo%20appname%20no%20badge</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="150" h="150" measuredW="150" measuredH="150" zOrder="0" locked="false" isInGroup="96">
+          <controlProperties>
+            <controlName>Live%20Tile%201x1%20Text%20Only</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="150" h="150" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <shape>rectangle</shape>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="2" y="2" w="145" h="145" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="96">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="12" y="120" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="2" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>Application</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="101" controlTypeID="__group__" x="1016" y="503" w="310" h="230" measuredW="310" measuredH="230" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Tile%20peek%20content</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="310" h="230" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="101">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="3" y="5" w="307" h="90" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="101">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="257" y="194" w="36" h="36" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="101">
+          <controlProperties>
+            <color>0</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="61" y="101" w="189" h="103" measuredW="1401" measuredH="21" zOrder="3" locked="false" isInGroup="101">
+          <controlProperties>
+            <text>Vivamus%20tincidunt%20convallis%20urna%2C%20in%20ultrice%20nisi%20euismod%20sed.%20Aenean%20vitae%20ligula%20id%20dolor%20aliquam%20adipiscing.%20Praesent%20cursus%20diam%20sapien%2C%20hendrerit%20varius%20lectus.%20Aliquam%20sollicitudin%20urna%20et%20erat%20rutrum%20tincidunt.%20Curabitur%20nec%20risus%20nulla.vitae%20purus%20enim.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

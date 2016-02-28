@@ -1,0 +1,390 @@
+{
+    "Categories": [
+        {
+            "Id": 1,
+            "Name": "Legjobb randiételek",
+            "Description": "Biztos ezerszer hallottad már, hogy egy férfi szívéhez a hasán át vezet az út. Ez fordítva is igaz!",
+            "Icon": "hot16.png",
+            "BackgroundColor": "#FD0006"
+        },
+        {
+            "Id": 2,
+            "Name": "Olcsó és gyors vacsora",
+            "Description": "Ennél valami finomat, de munka után már nincs erőd órákon át a konyhában robotolni?",
+            "Icon": "sandwich.png",
+            "BackgroundColor": "#0D58A6"
+        },
+        {
+            "Id": 3,
+            "Name": "Vegetáriánus",
+            "Description": "Mindegy, hogy vega vagy, vagy nem, a vegetáriánus ételek finomak!",
+            "Icon": "eggplant1.png",
+            "BackgroundColor": "#FF5600"
+        },
+        {
+            "Id": 4,
+            "Name": "Grillparti",
+            "Description": "Egy grillparti sokszor emlékezetesebb, mint egy sörözés. Csak a megfelelő ételeket kell készíteni.",
+            "Icon": "barbecue3.png",
+            "BackgroundColor": "#FF9900"
+        },
+        {
+            "Id": 5,
+            "Name": "Hidegtálak vendégeknek",
+            "Description": "Vendégek jönnek? Nem tudod, mivel kínáld meg őket? Nem is igazán szeretnél főzni?",
+            "Icon": "food33.png",
+            "BackgroundColor": "#2419B2"
+        },
+        {
+            "Id": 6,
+            "Name": "Saláták",
+            "Description": "Könnyű vacsorának, vagy egy finom főfogás mellé nincs is jobb egy salátánál.",
+            "Icon": "salad.png",
+            "BackgroundColor": "#0ACF00"
+        },
+        {
+            "Id": 7,
+            "Name": "Különlegességek",
+            "Description": "Chili con Carne, Matar paneer, Ananászos tökös thai curry... Kostóltad már őket? Vétek lenne kihagyni...",
+            "Icon": "halloween39.png",
+            "BackgroundColor": "#00AA72"
+        },
+        {
+            "Id": 8,
+            "Name": "Édességek, sütemények",
+            "Description": "Nassolnál valami finomat? Nyugi, az édesség is lehet egészséges.",
+            "Icon": "cupcake3.png",
+            "BackgroundColor": "#FFC500"
+        },
+        {
+            "Id": 9,
+            "Name": "Italok, turmixok",
+            "Description": "Minden alkalomhoz más ital illik. Mi segítünk, hogy melyik.",
+            "Icon": "glass35.png",
+            "BackgroundColor": "#0D58A6"
+        },
+        {
+            "Id": 10,
+            "Name": "Levesek",
+            "Description": "Nem csak húslevest és gúlyáslevest találsz itt.",
+            "Icon": "hot56.png",
+            "BackgroundColor": "#574DD8"
+        }
+    ],
+    "Ingredients": [
+        { "Id": 100, "Name": "paprika" },
+        { "Id": 101, "Name": "paradicsom" },
+        { "Id": 102, "Name": "fokhagyma" },
+        { "Id": 103, "Name": "olaj" },
+        { "Id": 104, "Name": "só" },
+        { "Id": 105, "Name": "őrölt fekete bors" },
+        { "Id": 106, "Name": "citromlé" },
+        { "Id": 107, "Name": "petrezselyem" },
+        { "Id": 108, "Name": "tojás" },
+        { "Id": 109, "Name": "halszelet" },
+        { "Id": 110, "Name": "rizs" },
+        { "Id": 111, "Name": "kolbász" },
+        { "Id": 112, "Name": "vöröshagyma" },
+        { "Id": 113, "Name": "fűszerpaprika" },
+        { "Id": 114, "Name": "olíva olaj" },
+        { "Id": 115, "Name": "bazsalikom" },
+        { "Id": 116, "Name": "oregánó" },
+        { "Id": 117, "Name": "zsálya" },
+        { "Id": 118, "Name": "spenót" },
+        { "Id": 119, "Name": "cukor" },
+        { "Id": 120, "Name": "burgonya" },
+        { "Id": 121, "Name": "fehér liszt" },
+        { "Id": 122, "Name": "rétes liszt" },
+        { "Id": 123, "Name": "búzadara" },
+        { "Id": 124, "Name": "reszelt szerecsendió" },
+        { "Id": 125, "Name": "avokádó" },
+        { "Id": 126, "Name": "banán" },
+        { "Id": 127, "Name": "narancs" },
+        { "Id": 128, "Name": "kakaópor" },
+        { "Id": 129, "Name": "gyömbér" },
+        { "Id": 130, "Name": "fekete áfonya" },
+        { "Id": 131, "Name": "alma" },
+        { "Id": 132, "Name": "bordás kel" },
+        { "Id": 133, "Name": "víz" },
+        { "Id": 134, "Name": "kígyóuborka" },
+        { "Id": 135, "Name": "tejföl" },
+        { "Id": 136, "Name": "joghurt" },
+        { "Id": 137, "Name": "kápia paprika" },
+        { "Id": 138, "Name": "almaecet" },
+        { "Id": 139, "Name": "darált sertés lapocka vagy comb" },
+        { "Id": 140, "Name": "spagettikrém" },
+        { "Id": 141, "Name": "trappista sajt" },
+        { "Id": 142, "Name": "majoranna" },
+        { "Id": 143, "Name": "tészta" },
+        { "Id": 144, "Name": "pirospaprika" },
+        { "Id": 145, "Name": "tojás" },
+        { "Id": 146, "Name": "kukorica" },
+        { "Id": 147, "Name": "csemegeuborka" },
+        { "Id": 148, "Name": "füstölt sajt" },
+        { "Id": 149, "Name": "majonéz" },
+        { "Id": 150, "Name": "mustár" },
+        { "Id": 151, "Name": "fehérbors" },
+        { "Id": 152, "Name": "csirke felsőcomb" },
+        { "Id": 153, "Name": "aszalt szilva" },
+        { "Id": 154, "Name": "aszalt sárgabarack" },
+        { "Id": 155, "Name": "bazsalikom" },
+        { "Id": 156, "Name": "kakukkfű" },
+        { "Id": 157, "Name": "szójaszósz" },
+        { "Id": 158, "Name": "ketchup" },
+        { "Id": 159, "Name": "méz" },
+        { "Id": 160, "Name": "" },
+        { "Id": 161, "Name": "" },
+        { "Id": 162, "Name": "" },
+        { "Id": 163, "Name": "" },
+        { "Id": 164, "Name": "" },
+        { "Id": 165, "Name": "" },
+        { "Id": 166, "Name": "" },
+        { "Id": 167, "Name": "" },
+        { "Id": 168, "Name": "" },
+        { "Id": 169, "Name": "" }
+    ],
+    "Recipes": [
+        {
+            "Name": "Rizses lecsó",
+            "Description": "mádom a lecsót, el lennék vele egy darabig. Nos, ezúttal lecsó lecsóval készült! Csak úgy önmagában, minden hozzávaló nélkül. Nem volt benne kolbász, tojás, gomba, tök... Csak LECSÓ! Isteni volt, természetesen csípősen készült.",
+            "Image": "lecso.jpg",
+            "UnitPrice": 280,
+            "PreparationTime": 45,
+            "Difficulty": 2,
+            "CategoryIds": [ 2 ],
+            "Ingredients": [
+                { "Id": 111, "Quantity": 15, "Unit": "dkg" },
+                { "Id": 112, "Quantity": 2, "Unit": "nagy fej" },
+                { "Id": 100, "Quantity": 8, "Unit": "db" },
+                { "Id": 101, "Quantity": 4, "Unit": "db" },
+                { "Id": 103, "Quantity": 4, "Unit": "ek" },
+                { "Id": 113, "Quantity": 1, "Unit": "kávéskanál" },
+                { "Id": 110, "Quantity": 10, "Unit": "dkg" }
+            ],
+            "Steps": [
+                "A kolbászt hideg vízzel leöblítjük, lehúzzuk a héját (így könnyebben lejön), és vékony karikára vágjuk.",
+                "A hagymát megtisztítjuk, apróra vágjuk.",
+                "A zöldpaprikát megmossuk, kicsumázzuk, karikára vágjuk.",
+                "A paradicsomot forró vízbe mártjuk, hideg vízzel leöblítjük és lehúzzuk a héját, majd a húsát cikkekre vágjuk.",
+                "Az olajat nagy serpenyőben felforrósítjuk, beletesszük a hagymát, üvegesre fonnyasztjuk",
+                "Hozzáadjuk a kolbászt, és 1-2 percig együtt pirítjuk.",
+                "Beletesszük a zöldpaprikát, a paradicsomot, megszórjuk sóval, borssal, a fűszerpaprikával.",
+                "A rizzsel, összekeverjük, és annyi vizet öntünk rá, hogy éppen ellepje.",
+                "Lefedve kb. 20 percig főzzük, amíg a rizs megpuhul, ám a lecsó egy kicsit leveses marad."
+            ]
+        },
+        {
+            "Name": "Grillezett hal",
+            "Description": "Ti szoktatok halat grillezni? Én is grillezném, ha nem potyogna a rács között a parázsba! Szegény olyan törékeny, mint a nádszál, egyem a husiját, illetve csak enném.:o)  Erre találtam egy jó ötletet, citrom szeleteken sütni, és az még illik is hozzá, szuper! ",
+            "Image": "grillezett-hal.jpg",
+            "UnitPrice": 590,
+            "PreparationTime": 65,
+            "Difficulty": 4,
+            "CategoryIds": [ 4 ],
+            "Ingredients": [
+                { "Id": 109, "Quantity": 4, "Unit": "vastag" },
+                { "Id": 102, "Quantity": 2, "Unit": "gerezd" },
+                { "Id": 103, "Quantity": 4, "Unit": "ek" },
+                { "Id": 104, "Quantity": 0, "Unit": "" },
+                { "Id": 105, "Quantity": 0, "Unit": "" },
+                { "Id": 106, "Quantity": 200, "Unit": "ml" },
+                { "Id": 107, "Quantity": 1, "Unit": "csokor" }
+            ],
+            "Steps": [
+                "Az olajat a citromlével, zúzott fokhagymával, petrezselyemmel összekeverjük, sózzuk, borsozzuk.",
+                "A halszeletek mindkét oldalát megkenjük, egy-két óráig állni hagyjuk.",
+                "Olajozott rácsra fektetjük, tíz-tizenöt percig grillezzük, egyszer megfordítjuk."
+            ]
+        },
+        {
+            "Name": "Gnocchi spenótos paradicsomszószban",
+            "Description": "Egyik délután csak tészta és paradicsomkonzerv volt otthon, és nem akartam egy átlagos paradicsomszószt csinálni, ezért hozzáadtam pár hozzávalót, hátha beválik. Az eredmény szuper lett, azóta naponta csinálom szinte.",
+            "Image": "gnocci.jpg",
+            "UnitPrice": 450,
+            "PreparationTime": 75,
+            "Difficulty": 3,
+            "CategoryIds": [ 3, 7 ],
+            "Ingredients": [
+                { "Id": 114, "Quantity": 3, "Unit": "evőkanál" },
+                { "Id": 101, "Quantity": 3, "Unit": "pohár előfőzött, meghámozott, pürésített" },
+                { "Id": 105, "Quantity": 0.5, "Unit": "teáskanál" },
+                { "Id": 115, "Quantity": 2, "Unit": "evőkanál, apróra vágott, friss" },
+                { "Id": 117, "Quantity": 0.5, "Unit": "evőkanál, apróra vágott" },
+                { "Id": 118, "Quantity": 0.5, "Unit": "kg friss, megmosott, leszárított és csíkokra vágott" },
+                { "Id": 104, "Quantity": 0, "Unit": "" },
+                { "Id": 119, "Quantity": 0, "Unit": "" },
+                { "Id": 120, "Quantity": 50, "Unit": "dkg öreg" },
+                { "Id": 121, "Quantity": 10, "Unit": "dkg" },
+                { "Id": 122, "Quantity": 5, "Unit": "dkg" },
+                { "Id": 123, "Quantity": 5, "Unit": "dkg" },
+                { "Id": 124, "Quantity": 0, "Unit": "" }
+            ],
+            "Steps": [
+                "Az öreg burgonyát feltesszük héjában főni sós vízben",
+                "Amíg a burgonyánk fő elkészítjük a szószunkat. Az olíva olajat egy vastag aljú lábasban kis fokozatú lángon felmelegítjük, beletesszük a fekete borsot, és a zsályát, fél percig pirítjuk és hozzáadjuk a paradicsomot, a sót és a cukrot. Közepes fokozatú lángon forraljuk.",
+                "15 perc elteltével, amikor kezd sűrűsödni a szósz, hozzáadjuk a spenótot és körülbelül még egyszer ugyan ennyi ideig főzzük. A végén hozzáadjuk a maradék friss zöldfűszereinket.",
+                "A főtt burgonyáról leöntjük a vizet, lehűtjük vízzel és meghámozzuk. Krumplinyomóval, vagy (ha van) elektromos darálón átpasszírozzuk, hogy gyúrható legyen.",
+                "Hozzáadjuk a krumplihoz a liszteket és jól összegyúrjuk. Ne gyúrjuk túl sokáig, mert akkor túl lágy lesz a tészta.",
+                "A tésztánk egynegyedét belisztezett munkafelületen 2-3 cm átmérőjű hengereket sodrunk, majd 1-2 cm darabokra vágjuk és sós lobogó vízben kifőzzük. Amikor a gombócok feljönnek a víz tetejére, az utolsó darabtól számítva még 1 percig főzzük.",
+                "Szűrőbe szedjük őket, minden második kiszedésnél átmossuk őket.",
+                "Amikor végzünk, a forró spenótos paradicsom szósszal összekeverjük és 5 perc alatt összemelegítjük.",
+                "Forrón tálaljuk, ízlés szerint sajttal megszórhatjuk."
+            ]
+        },
+        {
+            "Name": "Narancsos-gyömbéres csokikrém",
+            "Description": "A gyömbér köztudottan melegítő hatású fűszer, ezért ezt a csokikrém a hidegebb téli napokra ajánlott. Persze gyömbér nélkül is bármikor elkészíthető, úgy is nagyon finom. Narancs helyett használhatunk más gyümölcsöt, például földieperrel, barackkal is kipróbálhatjuk.",
+            "Image": "narancsos-csokikrem.jpg",
+            "UnitPrice": 420,
+            "PreparationTime": 35,
+            "Difficulty": 2,
+            "CategoryIds": [ 7, 8 ],
+            "Ingredients": [
+                { "Id": 125, "Quantity": 2, "Unit": "" },
+                { "Id": 126, "Quantity": 1, "Unit": "" },
+                { "Id": 127, "Quantity": 2, "Unit": "" },
+                { "Id": 128, "Quantity": 1, "Unit": "evőkanál cukrozatlan, lehetőleg bio" },
+                { "Id": 129, "Quantity": 1, "Unit": "cm-es, friss darabka" }
+            ],
+            "Steps": [
+                "A megtisztított avokádót, banánt, gyömbért és az egyik narancsot turmixgépben simára keverjük. Ha túl sűrű, ne vizet, hanem narancslevet (vagy esetleg még egy narancsot) adjunk hozzá.",
+                "Belekeverjük a kakaóport. A másik narancsot darabokra vágjuk, és felváltva a krémmel poharakba töltjük.",
+                "Legalulra narancs jön, erre két kanál csokikrém, majd újra narancsszeletek, és végül ismét csokikrém.",
+                "A tetejét díszítsük egy-egy narancsszelettel, mentelevéllel."
+            ]
+        },
+        {
+            "Name": "Fiatalító áfonyaturmix",
+            "Description": "A frissen szedett fekete áfonya 100 grammja mintegy 400 mg antocián-származékot (antioxidáns) tartalmaz, ez serkenti a kollagénszintézist, ami a kötőszövetek és a bőr egészségéhez, üdeségéhet elengedhetetlenek. Antibakteriális és keringést elősegítő hatásuk is van. Serkentik az immunrendszer védekezését. Emellett az áfonyabogyó tartalmaz még katekineket, növényi rostokat, gyümölcssavakat és cukrokat. A-, B-, C és D-vitamin, pantoténsav és nikotinamid van benne bőségesen. A népi gyógyászat cukorbetegség elleni szerként is számon tartja. Lassítja a szervezet öregedését, segít megőrizni a testi és szellemi frissességet. A bordás kel a mángoldhoz hasonló zöld káposztaféle, főleg ősszel, télen van szezonja. Magas C-vitamin tartalma miatt kedveljük. Sajnos még kevesen termesztik, de a biopiacon lehet találni. Az áfonyának elég intenzív íze van, így a kevésbé kedvelt ízű káposztafélékhez is nagyon jól illik.",
+            "Image": "afonya-turmix.jpg",
+            "UnitPrice": 390,
+            "PreparationTime": 35,
+            "Difficulty": 2,
+            "CategoryIds": [ 7, 9 ],
+            "Ingredients": [
+                { "Id": 130, "Quantity": 10, "Unit": "dkg friss" },
+                { "Id": 131, "Quantity": 2, "Unit": "" },
+                { "Id": 132, "Quantity": 5, "Unit": "levél" },
+                { "Id": 133, "Quantity": 2, "Unit": "pohár" }
+            ],
+            "Steps": [
+                "Először a gyümölcsöket tesszük a turmixgépbe kevés vízzel, majd a leveleket és a legvégén a többi vizet.",
+                "2-3 perc turmixolás után egy rendkívül egészséges, sűrű, sötét italt kapunk."
+            ]
+        },
+        {
+            "Name": "Hideg uborkaleves",
+            "Description": "Az uborka az egyik legegészségesebb zöldség. Tápanyagtartalma miatt táplálkozás-élettani szerepe jelentős. Víztartalma rendkívül magas (96 %), de gazdag káliumban (ami segíti az egészséges veseműködés), foszforban, vasban, kalciumban, nátriumban, szénhidrátokban és A1, B1, B2, B6, C vitaminban is, így a téli időszakban fontos vitaminforrásunk lehet, amely így az influenza előtti időben akár még a betegség megelőzésében is segítségünkre lehet. Tápértéke csekély. Egyes kutatások szerint a legtöbb értéke a héjában van, ezért érdemes felhasználás során az uborka héját nem veszendőbe hagyni.",
+            "Image": "hideg-uborkaleves.jpg",
+            "UnitPrice": 280,
+            "PreparationTime": 25,
+            "Difficulty": 3,
+            "CategoryIds": [ 10, 3 ],
+            "Ingredients": [
+                { "Id": 134, "Quantity": 3, "Unit": "" },
+                { "Id": 135, "Quantity": 2, "Unit": "dl" },
+                { "Id": 136, "Quantity": 2, "Unit": "dl" },
+                { "Id": 104, "Quantity": 0, "Unit": "" },
+                { "Id": 105, "Quantity": 0, "Unit": "" },
+                { "Id": 119, "Quantity": 0.5, "Unit": "evőkanál" },
+                { "Id": 107, "Quantity": 1, "Unit": "csokor" },
+                { "Id": 137, "Quantity": 1, "Unit": "db" },
+                { "Id": 106, "Quantity": 1, "Unit": "evőkanál" },
+                { "Id": 138, "Quantity": 1, "Unit": "evőkanál" },
+                { "Id": 103, "Quantity": 0, "Unit": "" }
+            ],
+            "Steps": [
+                "A kápia paprikát apróra vágjuk és olajon megpirítjuk a borssal. Néhány percig pirítjuk, míg levet nem ereszt.",
+                "A kígyóuborkát negyedeljük, és vékony szeletekre vágjuk.",
+                "Egy fazékba összekeverjük a tejfölt, hozzáadjuk a joghurtot, a citromlét és az almaecetet. Simára keverjük habverővel.",
+                "Összekeverjük a negyedelt uborkával, frissen vágott petrezselyemmel, a kihűlt pirított kápia paprikánkkal.",
+                "Sózzuk és hozzáadjuk a cukrot.",
+                "2-3 dl vízzel beállítjuk a leves sűrűségét.",
+                "Tálalásig a hűtőszekrénybe tesszük."
+            ]
+        },
+        {
+            "Name": "Milánói makaróni",
+            "Description": "Nagyon finom és gyorsan el lehet készíteni. Ezt a milánói alapot szoktam a lasagne-hoz is készíteni.:)",
+            "Image": "milanoi.jpg",
+            "UnitPrice": 390,
+            "PreparationTime": 35,
+            "Difficulty": 3,
+            "CategoryIds": [ 1 ],
+            "Ingredients": [
+                { "Id": 143, "Quantity": 500, "Unit": "gramm makaróni (vagy spagetti)" },
+                { "Id": 139, "Quantity": 70, "Unit": "dkg" },
+                { "Id": 112, "Quantity": 1, "Unit": "nagyobb fej" },
+                { "Id": 135, "Quantity": 2, "Unit": "kis pohár" },
+                { "Id": 140, "Quantity": 2, "Unit": "tubus" },
+                { "Id": 141, "Quantity": 40, "Unit": "dkg" },
+                { "Id": 104, "Quantity": 0, "Unit": "" },
+                { "Id": 135, "Quantity": 0, "Unit": "" },
+                { "Id": 142, "Quantity": 0, "Unit": "" },
+                { "Id": 144, "Quantity": 0, "Unit": "" }
+            ],
+            "Steps": [
+                "A hagymát üvegesre pároljuk olajon, beletesszük a darált húst.",
+                "Fűszerezzük pirospaprikával, sóval, borssal, majorannával és puhára pároljuk.",
+                "A 2 pohár tejfölt a 2 tubus spagettikrémmel simára keverjük.",
+                "A sajtokat nagyobb lyukú reszelőn lereszeljük, és összekeverjük.",
+                "Egy tűzálló edényt, vagy lábast kivajazunk, beletesszük a kifőtt tésztát, belekeverjük a húst, a tejfölös krémet és az összekevert sajtnak a felét. Jól keverjük össze, tetejét a maradék sajttal szórjuk meg.",
+                "Előmelegített, forró sütőbe toljuk, de takarék lángon sütjük, míg a tetején a sajt megolvad, és kicsit rózsaszínes lesz.",
+                "Aki nem szereti annyira a sajtot, a tészta közé ne keverjen, csak a tetejére szórjon. Így csak a sajt felére van szükség."
+            ]
+        },
+        {
+            "Name": "Almás-kukoricás saláta",
+            "Description": "Kicsit talán furcsa lehet a recept elsőre, de eddig mindenkinek nagyon ízlett. Egyszerű, gyors, magában is jó, de sült csirke mellé köretnek is.",
+            "Image": "almas-kukorica-salata.jpg",
+            "UnitPrice": 230,
+            "PreparationTime": 20,
+            "Difficulty": 1,
+            "CategoryIds": [ 2, 3, 4, 5, 6 ],
+            "Ingredients": [
+                { "Id": 145, "Quantity": 8, "Unit": "főtt" },
+                { "Id": 146, "Quantity": 25, "Unit": "dkg konzerv" },
+                { "Id": 147, "Quantity": 10, "Unit": "közepes méretű" },
+                { "Id": 148, "Quantity": 15, "Unit": "dkg" },
+                { "Id": 149, "Quantity": 0, "Unit": "" },
+                { "Id": 150, "Quantity": 0, "Unit": "" },
+                { "Id": 151, "Quantity": 0, "Unit": "" },
+                { "Id": 104, "Quantity": 0, "Unit": "" }
+            ],
+            "Steps": [
+                "A főtt tojást, almát, csemegeuborkát, sajtot apróra fel kell kockázni, összekeverni a kukoricával.",
+                "Néhány kanál majonézt, pár kanál mustárral és egy fél doboz tejföllel kell összekeverni.",
+                "Sóval és fehérborssal lehet ízesíteni, majd az egészet összekeverni."
+            ]
+        },
+        {
+            "Name": "Aszalt gyümölcsös csirkecomb",
+            "Description": "Nem akartam hagyományos sült csirkét készíteni, ezért kerestem egy kicsit különlegesebb, de egyszerű receptet. Így készült ez az étel.",
+            "Image": "aszalt_gyumolcsos_csirkecomb.jpg",
+            "UnitPrice": 530,
+            "PreparationTime": 120,
+            "Difficulty": 3,
+            "CategoryIds": [ 1, 7 ],
+            "Ingredients": [
+                 { "Id": 152,  "Quantity": 8, "Unit": "db" },
+                { "Id": 153,  "Quantity": 20, "Unit": "dkg"  },
+                { "Id": 154,"Quantity": 20, "Unit": "dkg" },
+                { "Id": 145, "Quantity": 8, "Unit": "főtt" },
+                { "Id": 142, "Quantity": 1, "Unit": "evőkanál" },
+                { "Id": 115, "Quantity": 1, "Unit": "evőkanál" },
+                { "Id": 103, "Quantity": 2, "Unit": "evőkanál" },
+                { "Id": 148, "Quantity": 15, "Unit": "dkg" },
+                { "Id": 157, "Quantity": 100, "Unit": "ml" },
+                { "Id": 158, "Quantity": 4, "Unit": "evőkanál" },
+                { "Id": 159, "Quantity": 2, "Unit": "evőkanál" }
+            ],
+            "Steps": [
+                "A combokról a bőrt lehúzzuk, sózzuk.",
+                "A páchoz valókat összekeverjük, a húsokat beleforgatjuk és egy éjszakára hűtőbe tesszük.",
+                "Másnap a húst lecsöpögtetjük, tepsibe rakjuk. Mellé belerakosgatjuk az aszalt gyümölcsöket. Az öntethez valókat egy tálban elkeverjük. A combokat ezzel az öntettel meglocsoljuk.",
+                "A megmaradt páclét a tetejére öntjük.",
+                "A tepsit lefedjük és előmelegített  sütőben (légkeverésen) 160 fokon (normál sütőben kb. 175) kb. 1,5 órát sütjük."
+            ]
+        }
+    ]
+}

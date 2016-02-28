@@ -1,0 +1,412 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1366" measuredH="783" mockupW="1366" mockupH="783">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1366" h="768" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="113" y="38" w="-1" h="-1" measuredW="99" measuredH="48" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>6710886</color>
+        <size>40</size>
+        <text>Men%FC</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="__group__" x="0" y="678" w="1366" h="90" measuredW="1366" measuredH="90" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>App%20Bar</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1366" h="90" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="28" y="13" w="48" h="-1" measuredW="48" measuredH="60" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <href>shopping-list-page%26bm%3Bshopping-list-page.bmml%26bm%3Bshopping-list-page.bmml%26bm%3Bshopping-list-page.bmml</href>
+            <icon>CartIcon%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2228%2C691%2C76%2C751%22%20href%3D%22shopping-list-page.bmml%22%20alt%3D%22shopping-list-page%22%20id%3D%221%22/%3E</map>
+            <size>10</size>
+            <text>Bevlista</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="1290" y="15" w="48" h="-1" measuredW="61" measuredH="60" zOrder="2" locked="false" isInGroup="2">
+          <controlProperties>
+            <icon>TrashIcon%7Clarge</icon>
+            <size>10</size>
+            <text>Men%FC%20%FCr%EDt%E9se</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="101" y="15" w="48" h="-1" measuredW="49" measuredH="60" zOrder="3" locked="false" isInGroup="2">
+          <controlProperties>
+            <icon>PrintIcon%7Clarge</icon>
+            <size>10</size>
+            <text>Nyomtat%E1s</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="169" y="702" w="391" h="81" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Itt%20lehet%20bev%E1s%E1rl%F3list%E1t%20gener%E1lni%20%E9s%20nyomtatni%20a%20men%FCben%20tal%E1lhat%F3%20recepteket.</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="1152" y="49" w="183" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="1160" y="52" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Keres%E9s...</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="50" y="38" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>start-page%26bm%3Bstart-page.bmml%26bm%3Bstart-page.bmml%26bm%3Bstart-page.bmml</href>
+        <icon>LeftArrowIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2250%2C38%2C98%2C86%22%20href%3D%22start-page.bmml%22%20alt%3D%22start-page%22%20id%3D%229%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::StickyNote" x="252" y="21" w="663" h="80" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mindenk%E9ppen%20kell%20egy%20placeholder%2C%20hogy%20ha%20valaki%20%FAgy%20j%F6n%20ide%2C%20hogy%20%E9ppen%20%FCres%2C%20akkor%20%E9rtse%2C%20hogy%20mire%20val%F3%20ez%20az%20oldal.</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::StickyNote" x="50" y="511" w="391" h="116" measuredW="109" measuredH="123" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ha%20nem%20pip%E1lta%20be%20az%20%F6sszess%20el%u0151tte%20l%E9v%u0151%20l%E9p%E9st%2C%20akkor%20automatikusan%20bepip%E1l%F3dik%2C%20mikor%20megnyomja.%0AK%E9sz%20gombra%20kattintva%20fel%20kell%20j%F6nnie%20egy%20mod%E1lis%20ablaknak%2C%20ahol%20%E9rt%E9kelheti%2C%20megoszthatja%20%E9s%20a%20kedvenceihez%20adhatja%20az%20adott%20receptet.</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="__group__" x="50" y="116" w="412" h="547" measuredW="412" measuredH="547" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="-1" h="-1" measuredW="149" measuredH="27" zOrder="0" locked="false" isInGroup="31">
+          <controlProperties>
+            <color>6710886</color>
+            <text>Toj%E1sr%E1ntotta</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="36" w="177" h="116" measuredW="300" measuredH="197" zOrder="1" locked="false" isInGroup="31">
+          <controlProperties>
+            <src>./images/smoked-salmon-omelette-300x197.jpg</src>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="187" y="36" w="225" h="131" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="31">
+          <controlProperties>
+            <color>6710886</color>
+            <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::NumericStepper" x="160" y="0" w="-1" h="-1" measuredW="42" measuredH="24" zOrder="3" locked="false" isInGroup="31">
+          <controlProperties>
+            <color>6710886</color>
+            <text>2</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="0" y="167" w="-1" h="-1" measuredW="146" measuredH="24" zOrder="4" locked="false" isInGroup="31">
+          <controlProperties>
+            <color>6710886</color>
+            <size>16</size>
+            <text>Elk%E9sz%EDt%E9si%20l%E9p%E9sek</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="0" y="191" w="387" h="51" measuredW="387" measuredH="51" zOrder="5" locked="false" isInGroup="31">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="387" h="51" measuredW="387" measuredH="51" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <controlName>file%20picker</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="387" h="51" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <color>40463</color>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>CheckMarkIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="12" y="8" w="333" h="36" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <color>16777215</color>
+                <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6" controlTypeID="__group__" x="0" y="251" w="387" h="51" measuredW="387" measuredH="51" zOrder="6" locked="false" isInGroup="31">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="387" h="51" measuredW="387" measuredH="51" zOrder="0" locked="false" isInGroup="6">
+              <controlProperties>
+                <controlName>file%20picker</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="387" h="51" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>CheckMarkIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="12" y="8" w="333" h="36" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="6">
+              <controlProperties>
+                <color>6710886</color>
+                <text>sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7" controlTypeID="__group__" x="0" y="311" w="387" h="65" measuredW="387" measuredH="65" zOrder="7" locked="false" isInGroup="31">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="387" h="65" measuredW="387" measuredH="65" zOrder="0" locked="false" isInGroup="7">
+              <controlProperties>
+                <controlName>file%20picker</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="387" h="65" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="10" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>CheckMarkIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="12" y="10" w="333" h="46" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="7">
+              <controlProperties>
+                <color>6710886</color>
+                <text>lDuis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident.</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8" controlTypeID="__group__" x="0" y="384" w="387" h="51" measuredW="387" measuredH="51" zOrder="8" locked="false" isInGroup="31">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="387" h="51" measuredW="387" measuredH="51" zOrder="0" locked="false" isInGroup="8">
+              <controlProperties>
+                <controlName>file%20picker</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="387" h="51" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>CheckMarkIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="12" y="8" w="333" h="36" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="8">
+              <controlProperties>
+                <color>6710886</color>
+                <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="9" controlTypeID="__group__" x="0" y="442" w="387" h="51" measuredW="387" measuredH="51" zOrder="9" locked="false" isInGroup="31">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="387" h="51" measuredW="387" measuredH="51" zOrder="0" locked="false" isInGroup="9">
+              <controlProperties>
+                <controlName>file%20picker</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="387" h="51" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>CheckMarkIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="12" y="8" w="333" h="36" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="9">
+              <controlProperties>
+                <color>6710886</color>
+                <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="0" y="502" w="387" h="45" measuredW="85" measuredH="32" zOrder="10" locked="false" isInGroup="31">
+          <controlProperties>
+            <color>16750848</color>
+            <size>24</size>
+            <text>K%E9sz%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::SubTitle" x="210" y="1" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="11" locked="false" isInGroup="31">
+          <controlProperties>
+            <color>6710886</color>
+            <text>f%u0151re</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="32" controlTypeID="__group__" x="528" y="118" w="412" h="547" measuredW="412" measuredH="547" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="-1" h="-1" measuredW="166" measuredH="27" zOrder="0" locked="false" isInGroup="32">
+          <controlProperties>
+            <color>6710886</color>
+            <text>Gy%u0171m%F6lcsleves</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="36" w="177" h="116" measuredW="470" measuredH="322" zOrder="1" locked="false" isInGroup="32">
+          <controlProperties>
+            <src>./images/gy%25C3%25BCm%25C3%25B6lcs-leves.jpg</src>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="187" y="36" w="225" h="131" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="32">
+          <controlProperties>
+            <color>6710886</color>
+            <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::NumericStepper" x="177" y="1" w="-1" h="-1" measuredW="42" measuredH="24" zOrder="3" locked="false" isInGroup="32">
+          <controlProperties>
+            <color>6710886</color>
+            <text>2</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="0" y="167" w="-1" h="-1" measuredW="146" measuredH="24" zOrder="4" locked="false" isInGroup="32">
+          <controlProperties>
+            <color>6710886</color>
+            <size>16</size>
+            <text>Elk%E9sz%EDt%E9si%20l%E9p%E9sek</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="0" y="191" w="387" h="51" measuredW="387" measuredH="51" zOrder="5" locked="false" isInGroup="32">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="387" h="51" measuredW="387" measuredH="51" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <controlName>file%20picker</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="387" h="51" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>CheckMarkIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="12" y="8" w="333" h="36" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <color>6710886</color>
+                <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6" controlTypeID="__group__" x="0" y="251" w="387" h="51" measuredW="387" measuredH="51" zOrder="6" locked="false" isInGroup="32">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="387" h="51" measuredW="387" measuredH="51" zOrder="0" locked="false" isInGroup="6">
+              <controlProperties>
+                <controlName>file%20picker</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="387" h="51" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>CheckMarkIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="12" y="8" w="333" h="36" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="6">
+              <controlProperties>
+                <color>6710886</color>
+                <text>sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7" controlTypeID="__group__" x="0" y="311" w="387" h="65" measuredW="387" measuredH="65" zOrder="7" locked="false" isInGroup="32">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="387" h="65" measuredW="387" measuredH="65" zOrder="0" locked="false" isInGroup="7">
+              <controlProperties>
+                <controlName>file%20picker</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="387" h="65" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="10" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>CheckMarkIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="12" y="10" w="333" h="46" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="7">
+              <controlProperties>
+                <color>6710886</color>
+                <text>lDuis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident.</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8" controlTypeID="__group__" x="0" y="384" w="387" h="51" measuredW="387" measuredH="51" zOrder="8" locked="false" isInGroup="32">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="387" h="51" measuredW="387" measuredH="51" zOrder="0" locked="false" isInGroup="8">
+              <controlProperties>
+                <controlName>file%20picker</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="387" h="51" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>CheckMarkIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="12" y="8" w="333" h="36" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="8">
+              <controlProperties>
+                <color>6710886</color>
+                <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="9" controlTypeID="__group__" x="0" y="442" w="387" h="51" measuredW="387" measuredH="51" zOrder="9" locked="false" isInGroup="32">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="387" h="51" measuredW="387" measuredH="51" zOrder="0" locked="false" isInGroup="9">
+              <controlProperties>
+                <controlName>file%20picker</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="387" h="51" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="362" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>CheckMarkIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="12" y="8" w="333" h="36" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="9">
+              <controlProperties>
+                <color>6710886</color>
+                <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="0" y="502" w="387" h="45" measuredW="85" measuredH="32" zOrder="10" locked="false" isInGroup="32">
+          <controlProperties>
+            <color>16750848</color>
+            <size>24</size>
+            <text>K%E9sz%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::SubTitle" x="234" y="0" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="11" locked="false" isInGroup="32">
+          <controlProperties>
+            <color>6710886</color>
+            <text>f%u0151re</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
